@@ -1,0 +1,24 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	height: 97vh;
+	background-color: white;
+	display: grid;
+	place-items: center;
+	text-align: center;
+	margin: 0 auto;
+}
+div{
+  height: 300px;
+  text-align: center;
+  margin: 0 auto;
+}
+b{font-size: 30px;
+  text-transform: uppercase;
+}
+img{
+  width: 60%;
+  margin: 0 auto;
+}
